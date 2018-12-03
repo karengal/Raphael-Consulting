@@ -29,7 +29,7 @@ namespace MvcMovie.Controllers
             return View();
         }
 
-         public IActionResult francais()
+         public IActionResult Francais()
         {
             ViewData["Message"] = "This is the french page";
 
